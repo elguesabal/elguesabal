@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/elguesabal/elguesabal/output/snake.svg" alt="Snake animation" />
+![GitHub Streak](https://streak-stats.demolab.com?user=elguesabal&locale=pt_BR)
 
 ###
