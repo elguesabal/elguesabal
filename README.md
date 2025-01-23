@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=elguesabal&locale=pt_BR)
+[![GitHub Streak](https://streak-stats.demolab.com?user=elguesabal&locale=pt_BR)](https://git.io/streak-stats)
 
 ###
