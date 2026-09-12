@@ -194,11 +194,7 @@ O principal objetivo foi desenvolver uma solução simples, intuitiva e prática
 
 ### Engenharia de Software — 42 Rio
 
-**Outubro de 2023 – 2026**
-
-Formação interrompida.
-
-Durante o período na 42 Rio, desenvolvi projetos envolvendo **C, Linux, algoritmos, processos, gerenciamento de memória e programação de baixo nível**.
+**Outubro de 2023 - Formação não conclída**
 
 ### Desenvolvedor Full Stack — DevMedia
 
