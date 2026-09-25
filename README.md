@@ -1,13 +1,10 @@
-# Olá! 👋 Eu sou José Antonio
-
-### Desenvolvedor Full Stack | Node.js • React • TypeScript • Java
-
 <div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elguesabal&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</a>
-
+  <h1 style="font-size: 32px;">José Antonio - Desenvolvedor Full Stack</h1>
+</div>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elguesabal&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 Sou **Desenvolvedor Full Stack** com experiência profissional no desenvolvimento de aplicações web, APIs, integrações e sistemas de automação.
@@ -81,17 +78,13 @@ Durante o período na 42 Rio, desenvolvi projetos envolvendo **C, Linux, algorit
 # 📫 Contato
 
 <div align="center">
-
-<a href="mailto:joseelguesabal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-joseelguesabal%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/joseantonioelguesabal">
-  <img src="https://img.shields.io/badge/LinkedIn-José%20Antonio-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/elguesabal">
-  <img src="https://img.shields.io/badge/GitHub-elguesabal-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
+  <a href="mailto:joseelguesabal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joseelguesabal%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/joseantonioelguesabal">
+    <img src="https://img.shields.io/badge/LinkedIn-José%20Antonio-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/elguesabal">
+    <img src="https://img.shields.io/badge/GitHub-elguesabal-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
